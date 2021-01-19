@@ -1,0 +1,2 @@
+2020/08/04 14:21:07	2020/08/04 14:21:10	  7895/    -1	motel	/local/scratch/public/zs334/EMAN2/bin/e2pdb2mrc.py pdb1ss8.ent pdb1ss8.mrc apix=1 res=1.5 center
+2020/08/04 14:23:47	2020/08/04 14:23:50	  7933/    -1	motel	/local/scratch/public/zs334/EMAN2/bin/e2pdb2mrc.py pdb1ss8.ent pdb1ss8.mrc apix=1 res=3.0 center

@@ -1,0 +1,2 @@
+Train Epoch: 1 [0/68830 (0%)] Loss: 0.102460, Time: 3.225637s
+Train Epoch: 1 [5/68830 (0%)] Loss: 0.098072, Time: 2.971287s

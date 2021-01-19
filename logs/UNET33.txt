@@ -1,0 +1,11 @@
+Train Epoch: 1 [0/68830 (0%)] Loss: 0.119962, Time: 2.594332s
+Train Epoch: 1 [5/68830 (0%)] Loss: 0.221205, Time: 2.425237s
+Train Epoch: 1 [10/68830 (0%)] Loss: 0.034261, Time: 2.412420s
+Train Epoch: 1 [15/68830 (0%)] Loss: 0.030311, Time: 2.406488s
+Train Epoch: 1 [20/68830 (0%)] Loss: 0.126041, Time: 2.408495s
+Train Epoch: 1 [25/68830 (0%)] Loss: 0.037945, Time: 2.425120s
+Train Epoch: 1 [30/68830 (0%)] Loss: 0.538908, Time: 2.410930s
+Train Epoch: 1 [35/68830 (0%)] Loss: 0.120582, Time: 2.422634s
+Train Epoch: 1 [40/68830 (0%)] Loss: 0.769517, Time: 2.421050s
+Train Epoch: 1 [45/68830 (0%)] Loss: 0.060714, Time: 2.437762s
+Train Epoch: 1 [50/68830 (0%)] Loss: 2.814252, Time: 2.418548s

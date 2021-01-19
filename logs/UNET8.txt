@@ -1,0 +1,5 @@
+Train Epoch: 1 [0/2 (0%)] Loss: 0.000132, Time: 2.059005s
+Test Avg. Loss: 0.000545, MSE Loss: 0.000545, Time: 1.362261, PSNR: -inf, SSIM nan
+Train Epoch: 2 [0/2 (0%)] Loss: 0.000545, Time: 1.845842s
+Test Avg. Loss: 0.004374, MSE Loss: 0.004374, Time: 1.340454, PSNR: -inf, SSIM nan
+Train Epoch: 3 [0/2 (0%)] Loss: 0.004374, Time: 1.848410s
